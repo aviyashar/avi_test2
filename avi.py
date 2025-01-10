@@ -1,4 +1,1 @@
-fdas
-fafd
-fcafd
-
+print("hello")
